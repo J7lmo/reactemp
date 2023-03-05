@@ -2,8 +2,8 @@
 
 Pour lancer le site web, effectuez les commandes suivantes :
 
-### `npm install`
-### `npm start`
+`npm install`
+`npm start`
 
 Le site sera accessible sur le port 3000, vous pourrez y accéder en entrant l'URL suivante : [http://localhost:3000]
 
